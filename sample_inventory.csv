@@ -1,0 +1,13 @@
+SKU,Product_Name,Stock_Qty,Warehouse
+SKU-001,Laptop,50,Warehouse A
+SKU-002,Mouse,200,Warehouse B
+SKU-003,Keyboard,150,Warehouse A
+SKU-001,Laptop Pro,75,Warehouse C
+SKU-004,Monitor,3000,Warehouse B
+SKU-005,Headphones,,Warehouse A
+SKU-006,Webcam,-10,Warehouse C
+SKU-007,USB Hub,45,Warehouse A
+SKU-002,Mouse,200,Warehouse B
+SKU-008,Desk Lamp,60,
+SKU-009,Charger,55,Warehouse B
+SKU-010,Speaker,48,Warehouse A
