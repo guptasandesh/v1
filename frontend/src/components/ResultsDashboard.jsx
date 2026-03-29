@@ -264,7 +264,7 @@ export default function ResultsDashboard({ data, onBack }) {
   const handleDownload = async () => {
     setDownloading(true);
     try {
-      const API = process.env.REACT_APP_API_URL || "http://localhost:8090";
+      const API = process.env.REACT_APP_API_URL || "https://v1-sq2v.onrender.com";
       const res = await fetch(`${API}/generate-report`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },

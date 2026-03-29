@@ -3,7 +3,7 @@ import UploadBox from "./components/UploadBox";
 import ColumnMapper from "./components/ColumnMapper";
 import ResultsDashboard from "./components/ResultsDashboard";
 
-const API = process.env.REACT_APP_API_URL || "http://localhost:8090";
+const API = process.env.REACT_APP_API_URL || "https://v1-sq2v.onrender.com";
 
 // step: "upload" | "mapping" | "results"
 export default function App() {
